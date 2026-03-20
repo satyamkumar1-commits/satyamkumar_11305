@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0326-power-of-three/) | Easy |
 | [1952-three-divisors](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/2427-number-of-common-factors/) | Easy |
 ## Enumeration
@@ -16,4 +17,8 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/2427-number-of-common-factors/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
