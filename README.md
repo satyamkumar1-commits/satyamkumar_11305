@@ -21,4 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0326-power-of-three/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
