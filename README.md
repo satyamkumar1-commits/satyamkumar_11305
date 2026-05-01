@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/satyamkumar1-commits/satyamkumar_11305/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
